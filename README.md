@@ -1,4 +1,4 @@
-# Unofficial Fantasy LCS API
+# Unofficial Fantasy LCS API Documentation
 ---
 ## Table of Contents
  1. [api/season/{number}](http://fantasy.na.lolesports.com/en-US/api/season/)
