@@ -2,15 +2,15 @@
 ---
 ## Table of Contents
  1. [api/season/{number}](http://fantasy.na.lolesports.com/en-US/api/season/)
-    1. rosterLocksByWeek
-    2. proTeams
-    3. proPlayers
-    4. proMatchups
-    5. stats
-        1. projectTeamStats
-        2. actualTeamStats
-        3. projectPlayerStats
-        4. actualPlayerStats
+    1. [rosterLocksByWeek](#rosterlocksbyweek)
+    2. [proTeams](#proteams)
+    3. [proPlayers](#proplayers)
+    4. [proMatchups](#promatchups)
+    5. [stats](#stats)
+        1. [projectTeamStats](#projectteamstats)
+        2. [actualTeamStats](#actualteamstats)
+        3. [projectPlayerStats](#projectplayerstats)
+        4. [actualPlayerStats](#actualplayerstats)
 2. not yet
 ---
 ## Definitions of Fields
