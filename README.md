@@ -1,7 +1,7 @@
 # Unofficial Fantasy LCS API Documentation
 ---
 ## Table of Contents
- 1. [api/season/{number}](http://fantasy.na.lolesports.com/en-US/api/season/)
+ 1. [api/season/{number}](http://fantasy.na.lolesports.com/en-US/api/season/) (e.g. Spring 2017 is 14)
     1. [rosterLocksByWeek](#rosterlocksbyweek)
     2. [proTeams](#proteams)
     3. [proPlayers](#proplayers)
